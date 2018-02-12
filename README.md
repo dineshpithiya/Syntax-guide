@@ -38,6 +38,8 @@ Ordered
 Format: ![Alt Text](url) 
 ```
 
+![GitHub Logo](logo.jpg)
+
 ```
 > Links
 http://github.com - automatic!
